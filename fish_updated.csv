@@ -1,4 +1,4 @@
-Entity,Code,Year,Aquaculture,Capture_Fisheries,Fish_Seafood_Consumption,Continent
+Entity,Code,Year,Aquaculture production (metric tons),Capture fisheries production (metric tons),Fish, Seafood- Food supply quantity (kg/capita/yr) (FAO, 2020),Continent
 Afghanistan,AFG,1969,60,400,0.04,Asia
 Afghanistan,AFG,1970,60,400,0.04,Asia
 Afghanistan,AFG,1971,60,500,0.05,Asia
